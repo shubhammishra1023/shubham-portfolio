@@ -116,7 +116,7 @@ export default function CertificatesTab() {
     {
       title: "Networking and Web Technology",
       issuer: "Infosys SpringBoard",
-      image: "/networking-certificate.jpg",
+      image: "/networking-web-tech-infosys.jpg",
       date: "2024",
       category: "Networking",
     },
