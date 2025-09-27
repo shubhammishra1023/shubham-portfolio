@@ -37,7 +37,7 @@ export default function WorkExperience() {
         "Develop responsive client-specific features using React.js, Next.js, and Tailwind CSS. Lead team collaboration and contribute to technical articles for company growth.",
       companyLogo:
         "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/omsoftwareslogo-rziZhG2PBq5vG0eAQVPjbtCevryGHf.webp",
-      certificateImage: "/react-developer-certificate.jpg",
+      certificateImage: "/ShubhamCOA.jpg",
       skills: ["React.js", "Next.js", "Tailwind CSS", "Git", "Team Leadership"],
     },
     {
@@ -173,7 +173,7 @@ export default function WorkExperience() {
                       </p>
 
                       <div
-                        ref={(el) => (skillsRefs.current[index] = el)}
+                        ref={(el) => { skillsRefs.current[index] = el; }}
                         className="flex flex-wrap gap-1 flex-shrink-0"
                       >
                         {expandedSkills[index]
