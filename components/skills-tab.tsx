@@ -22,7 +22,7 @@ export default function SkillsTab() {
         { name: "Node.js", logo: "/icons8-nodejs-240.png" },
         { name: "Express.js", logo: "/icons8-express-js-100.png" },
         { name: "MongoDB", logo: "/icons8-mongodb-96.png" },
-        { name: "Python", logo: "/python-logo.png" },
+        { name: "Python", logo: "/icons8-python-240.png" },
       ],
     },
     {
@@ -39,11 +39,13 @@ export default function SkillsTab() {
     {
       title: "Programming Languages",
       skills: [
-        { name:  "SQL",logo:"/sql-logo.png"},
+        { name: "C", logo: "/icons8-c-240.png" },
+        { name: "C++", logo: "/icons8-c-240.png" },
+        { name: "Python", logo: "/icons8-python-240.png" },
+        { name: "SQL", logo: "/icons8-sql-96.png" },
+        { name: "Java", logo: "/icons8-java-240.png" },
         { name: "JavaScript", logo: "/icons8-javascript-240.png" },
-        { name: "Python", logo: "/python-logo.png" },
-        { name: "C++", logo: "/c-logo.webp" },
-        { name: "C", logo: "/c-programming-logo.png" },
+        
       ],
     },
   ]
