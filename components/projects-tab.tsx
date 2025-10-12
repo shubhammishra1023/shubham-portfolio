@@ -40,7 +40,7 @@ export default function ProjectsTab() {
       title: "TaskMaster",
       description:
         "Marketplace app connecting consumers with local service providers featuring real-time chat and authentication.",
-      image: "/service-marketplace-app.jpg",
+      image: "/service-marketplace.png",
       technologies: ["React.js", "Next.js", "MongoDB", "Socket.io"],
       liveUrl: "https://taskmaster-pupn.vercel.app/",
       githubUrl: "https://github.com/shubhammishra1023/taskmaster",
