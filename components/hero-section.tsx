@@ -206,7 +206,7 @@ export default function HeroSection() {
 
               <div className="relative w-48 h-48 sm:w-64 sm:h-64 lg:w-80 lg:h-80 rounded-full overflow-hidden border-2 border-primary/30 shadow-2xl shadow-primary/10">
                 <img
-                  src="/shubham-profile.png"
+                  src="/shubham-profile.jpg"
                   alt="Shubham Mishra"
                   className="w-full h-full object-cover object-center"
                 />
