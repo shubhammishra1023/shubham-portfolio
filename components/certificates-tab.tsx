@@ -107,6 +107,20 @@ export default function CertificatesTab() {
       category: "AI & Machine Learning",
     },
     {
+      title: "Android Developer Virtual Internship",
+      issuer: "EduSkills (Google for Developers)",
+      image: "/googlefordevelopers-certificate.jpg",
+      date: "2025",
+      category: "Android Development",
+    },
+    {
+      title: "Cybersecurity Virtual Internship",
+      issuer: "Palo Alto Networks",
+      image: "/palo-alto-certificate.jpg",
+      date: "2024",
+      category: "Cybersecurity",
+    },
+    {
       title: "JavaScript Essentials",
       issuer: "Cisco Networking Academy",
       image: "/javascript-essentials-cisco.jpg",

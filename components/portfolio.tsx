@@ -1,6 +1,7 @@
 "use client"
 import Header from "@/components/header"
 import HeroSection from "@/components/hero-section"
+import AboutSection from "@/components/about-section"
 import TabsSection from "@/components/tabs-section"
 import WorkExperience from "@/components/work-experience"
 import Footer from "@/components/footer"
@@ -10,6 +11,7 @@ export default function Portfolio() {
     <div className="min-h-screen bg-background">
       <Header />
       <HeroSection />
+      <AboutSection />
       <TabsSection />
       <WorkExperience />
       <Footer />
