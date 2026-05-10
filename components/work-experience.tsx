@@ -32,9 +32,21 @@ export default function WorkExperience() {
       title: "Jr. React Developer",
       company: "OM Softwares",
       location: "Remote",
-      duration: "Apr 2025 - Present",
+      duration: "Apr 2025 - Aug 2025",
       description:
         "Develop responsive client-specific features using React.js, Next.js, and Tailwind CSS. Lead team collaboration and contribute to technical articles for company growth.",
+      companyLogo:
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/omsoftwareslogo-rziZhG2PBq5vG0eAQVPjbtCevryGHf.webp",
+      certificateImage: "/ShubhamCOA.jpg",
+      skills: ["React.js", "Next.js", "Tailwind CSS", "Git", "Team Leadership"],
+    },
+    {
+      title: "Jr. React Developer",
+      company: "OM Softwares",
+      location: "Remote",
+      duration: "Apr 2025 - Mar 2026",
+      description:
+        "Architected and developed scalable, full-stack web applications by integrating responsive, client-specific frontends (React.js, Next.js, Tailwind CSS) with robust backend services and databases (MongoDB). Spearheaded cross-functional team collaborations to accelerate feature delivery, and authored technical articles that elevated the company's engineering brand and industry presence.",
       companyLogo:
         "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/omsoftwareslogo-rziZhG2PBq5vG0eAQVPjbtCevryGHf.webp",
       certificateImage: "/ShubhamCOA.jpg",
