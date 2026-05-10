@@ -49,7 +49,7 @@ export default function WorkExperience() {
         "Architected and developed scalable, full-stack web applications by integrating responsive, client-specific frontends (React.js, Next.js, Tailwind CSS) with robust backend services and databases (MongoDB). Spearheaded cross-functional team collaborations to accelerate feature delivery, and authored technical articles that elevated the company's engineering brand and industry presence.",
       companyLogo:
         "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/omsoftwareslogo-rziZhG2PBq5vG0eAQVPjbtCevryGHf.webp",
-      certificateImage: "/ShubhamCOA.jpg",
+      certificateImage: "/certificate-69c3ff2b9e44f3728ed94bd7_page-0001.jpg",
       skills: ["React.js", "Next.js", "Tailwind CSS", "Git", "Team Leadership"],
     },
     {
